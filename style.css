@@ -195,7 +195,7 @@ h2 {
     }
   }
   
-@media screen and (max-width: 301px) and (max-width: 400px){
+@media screen and (min-width: 301px) and (max-width: 400px){
     body {
       background-color: green;
     }
