@@ -223,7 +223,7 @@ h2 {
 }
 
 @media screen and (max-width: 410px){
-body{
+.instructions{
   font-size: 15px;
 } 
 }
