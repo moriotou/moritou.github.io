@@ -238,3 +238,11 @@ h2 {
   font-size: 70px;
 } 
 }
+
+@media screen and (max-width: 670px){
+  body{}
+
+.title{
+  font-size: 55px;
+} 
+}
