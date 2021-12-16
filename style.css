@@ -222,3 +222,11 @@ h2 {
     background-color: purple;
   }
 }
+
+@media screen and (max-width: 850px){
+  body{}
+
+.title{
+  font-size: 50px;
+} 
+}
