@@ -222,11 +222,6 @@ h2 {
 } 
 }
 
-@media screen and (max-width: 410px){
-.instructions{
-  font-size: 15px;
-} 
-}
 
 @media screen and (max-width: 520px){
 .image{
