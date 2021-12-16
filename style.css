@@ -196,7 +196,7 @@ h2 {
 
   @media screen and (min-width: 801px) and (max-width: 1000px)  {
     body {
-      background-color:yellow;
+      background-color:rgb(247, 231, 19);
     }
   }
 
