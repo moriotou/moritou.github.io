@@ -142,7 +142,7 @@ body {
 
 /* Very light scaling for our illustration */
 .illustration {
-  max-width: 200%;
+  max-width: 100%;
   max-height: var(--image-max-width);
   margin-top: var(--image-margin);
 }
