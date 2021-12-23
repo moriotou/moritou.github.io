@@ -210,16 +210,10 @@ h2 {
 } 
 }
 
-@media screen and (max-width: 410px){
-.title{
-  font-size: 15px;
-} 
-}
-
 
 
 @media screen and (max-width: 520px){
 .image{
-  width: 100%;
+  width: 150%;
 } 
 }
