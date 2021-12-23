@@ -142,7 +142,7 @@ body {
 
 /* Very light scaling for our illustration */
 .illustration {
-  max-width: 100%;
+  max-width: 200%;
   max-height: var(--image-max-width);
   margin-top: var(--image-margin);
 }
@@ -221,7 +221,7 @@ h3 {
 
 
 @media screen and (max-width: 520px){
-.image{
+.src{
   width: 200%;
 } 
 }
