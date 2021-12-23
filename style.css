@@ -229,6 +229,12 @@ h3 {
   text-align: center;
 }
 
+@media screen and (max-width: 1200)
 .honbun {
   font-size: 18px;
+}
+
+@media screen and (max-width: 1050)
+.honbun {
+  font-size: 15px;
 }
